@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xliao35
-- 👀 I’m interested in travling 
+- 👀 I’m interested in traveling 
 - 🌱 I’m currently learning Statistic and Economics
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ...
